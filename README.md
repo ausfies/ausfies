@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ausfies
-- 👀 I’m interested in using my Neuroscince knowledge in making AI better
+- 👀 I’m interested in using my Neuroscience knowledge in making AI better
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything related to machine learning or AI
 - 📫 How to reach me PM
